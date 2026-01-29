@@ -1,4 +1,4 @@
-## Hi there 👋
+## Greetings, this is Elisa Tartini
 
 <!--
 **roseturtlini-star/roseturtlini-star** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
